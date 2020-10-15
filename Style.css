@@ -1,0 +1,146 @@
+/*.body{
+    background-image: url("img/Shape 1.png");
+    background-repeat:no-repeat ;
+    background-size: 100%;
+}*/
+
+
+p {
+    position: absolute;
+    left: 140px;
+
+
+}
+.Logoimg {
+    margin-top: 0px;
+}
+.Logo {
+    font-family: "Quicksand Bold", sans-serif;
+    font-size: 33px;
+    width: 131px;
+    height: 77px;
+    color: white;
+    left: 163px
+}
+
+.Menu {
+    font-family: "Quicksand Medium", sans-serif;
+    width: 353px;
+    margin-top: 44px;
+
+}
+.Menu.Home{
+    margin-left: 1209px;
+}
+
+.Menu.Features{
+    margin-left: 1295px;
+}
+
+.Menu.Pricing{
+    margin-left: 1413px;
+}
+
+.Menu.Pages{
+    margin-left:1515px;
+}
+
+.Singbg{
+    margin-left:1615px;
+    margin-top: 25px;
+    /*width: 165px;*/
+
+}
+
+.Sing{
+    font-family: "Quicksand Bold", sans-serif;
+    color: white;
+    font-size:22px;
+    margin-left: 1665px;
+    margin-top: 44px;
+}
+
+.Elements1{
+    font-family: "Quicksand Bold", sans-serif;
+    color:black;
+    font-size: 48px;
+    margin-top: 213px;
+    margin-left: 740px;
+}
+
+.Elements2{
+    font-family: "Quicksand Regular", sans-serif;
+    color:#929292;
+    font-size: 22px;
+    line-height:36px;
+    text-align: center;
+    margin-top: 277px;
+    /*margin-left: 656px;
+    если считать вторую строку
+     */
+    margin-left: 669px; /* с первой строки*/
+
+}
+
+a1 {
+    text-decoration: none;
+    outline: none;
+    display: inline-block;
+    width: 165px;
+    height: 50px;
+    margin-left:781px;
+    margin-top:378px;
+    /*margin-top:40px;*/
+    line-height: 45px;
+    border-radius: 50px;
+    font-family: "Quicksand Bold", sans-serif;
+    font-size: 22px;
+    text-align: center;
+    font-weight: 400;
+    color: #0066ff;
+    background: white;
+    border-style:solid;
+    border-color: #0066ff;
+    border-width:2px;
+
+}
+a1:hover {
+    background: #0066ff;
+    color: white;
+}
+
+a2 {
+    text-decoration: none;
+    outline: none;
+    display: inline-block;
+    width: 165px;
+    height: 50px;
+    margin-left:32px;
+    margin-top:378px;
+    line-height: 45px;
+    border-radius: 50px;
+    font-family: "Quicksand Bold", sans-serif;
+    font-size: 22px;
+    text-align: center;
+    font-weight: 400;
+    color: #0066ff;
+    background: white;
+    border-style:solid;
+    border-color: #0066ff;
+    border-width:2px;
+
+}
+a2:hover {
+    background: #0066ff;
+    color: white;
+}
+
+.Device{
+    margin-left: 556px;
+    margin-top: 510px;
+}
+
+.Features1{
+    margin-top:1208px;
+    margin-left:390px;
+}
